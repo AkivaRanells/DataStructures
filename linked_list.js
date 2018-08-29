@@ -1,4 +1,5 @@
 //send to hadas
+
 class LinkedList {
     constructor() {
         this.length = 0;
@@ -109,6 +110,6 @@ list.removeItemByIndex(1);
 console.log(list);
 list.print();
 console.log(list);
-
+//finish debugging
 
 

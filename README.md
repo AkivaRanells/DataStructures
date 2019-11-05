@@ -1,2 +1,2 @@
 # DataStructures
-LinkedList, Queue and Stack
+My very own ;) implementation of LinkedList, Queue and Stack
